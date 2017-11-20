@@ -80,7 +80,7 @@ public class DessinPoints extends JPanel {
 
         // We call the super constructor to paint the graph
         super.paintComponent(g);
-        g.setXORMode(Color.red);
+        g.setXORMode(Color.green);
 
         for(int i = 0; i < this.listePts.size(); i++) {
             // If it's a right

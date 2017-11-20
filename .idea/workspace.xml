@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="452a44b0-ffeb-41c4-be0c-300ac1db8546" name="Default" comment="" />
+    <list default="true" id="452a44b0-ffeb-41c4-be0c-300ac1db8546" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DessinPoints.java" afterPath="$PROJECT_DIR$/src/DessinPoints.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PointD2.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PointD2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GeomD2/PointD2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+            <state relative-caret-position="405">
+              <caret line="44" column="23" lean-forward="false" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
               <folding>
                 <element signature="docComment;class#PointD2#0" expanded="false" />
                 <element signature="method#PointD2#0;class#PointD2#0" expanded="false" />
@@ -88,11 +90,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DessinPoints.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DessinPoints.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/DessinPoints.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="29" column="81" lean-forward="false" selection-start-line="29" selection-start-column="81" selection-end-line="29" selection-end-column="81" />
+            <state relative-caret-position="133">
+              <caret line="69" column="9" lean-forward="true" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="9" />
               <folding>
                 <element signature="docComment;class#DessinPoints#0" expanded="false" />
                 <element signature="docComment;method#DessinPoints#0;class#DessinPoints#0" expanded="false" />
@@ -100,7 +102,6 @@
                 <element signature="docComment;method#dessine_point#0;class#DessinPoints#0" expanded="false" />
                 <element signature="method#dessine_point#0;class#DessinPoints#0" expanded="false" />
                 <element signature="docComment;method#paintComponent#0;class#DessinPoints#0" expanded="false" />
-                <element signature="method#paintComponent#0;class#DessinPoints#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -109,11 +110,10 @@
       <file leaf-file-name="Window.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Window.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="9" column="44" lean-forward="false" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+            <state relative-caret-position="210">
+              <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
               <folding>
                 <element signature="docComment;class#Window#0" expanded="false" />
-                <element signature="method#main#0;class#Window#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -143,7 +143,11 @@
       <find>StringTokenizer</find>
       <find>fenetre</find>
       <find>fenet</find>
+      <find>color</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -202,6 +206,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="PackagesPane" proportions="" version="1">
       <flattenPackages />
@@ -387,12 +392,12 @@
       <option name="presentableId" value="Default" />
       <updated>1510870834938</updated>
       <workItem from="1510870838927" duration="1523000" />
-      <workItem from="1511106936472" duration="12183000" />
+      <workItem from="1511106936472" duration="12523000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13706000" />
+    <option name="totallyTimeSpent" value="14046000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1654" height="1050" extended-state="6" />
@@ -407,7 +412,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33742332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -539,46 +544,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/java.desktop/java/awt/Graphics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="103" column="22" lean-forward="false" selection-start-line="103" selection-start-column="22" selection-end-line="103" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/point.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DessinPoints.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="29" column="81" lean-forward="false" selection-start-line="29" selection-start-column="81" selection-end-line="29" selection-end-column="81" />
-          <folding>
-            <element signature="docComment;class#DessinPoints#0" expanded="false" />
-            <element signature="docComment;method#DessinPoints#0;class#DessinPoints#0" expanded="false" />
-            <element signature="method#DessinPoints#0;class#DessinPoints#0" expanded="false" />
-            <element signature="docComment;method#dessine_point#0;class#DessinPoints#0" expanded="false" />
-            <element signature="method#dessine_point#0;class#DessinPoints#0" expanded="false" />
-            <element signature="docComment;method#paintComponent#0;class#DessinPoints#0" expanded="false" />
-            <element signature="method#paintComponent#0;class#DessinPoints#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Window.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="9" column="44" lean-forward="false" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-          <folding>
-            <element signature="docComment;class#Window#0" expanded="false" />
-            <element signature="method#main#0;class#Window#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -634,8 +604,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GeomD2/PointD2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        <state relative-caret-position="405">
+          <caret line="44" column="23" lean-forward="false" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
           <folding>
             <element signature="docComment;class#PointD2#0" expanded="false" />
             <element signature="method#PointD2#0;class#PointD2#0" expanded="false" />
@@ -644,6 +614,39 @@
             <element signature="method#PointD2#3;class#PointD2#0" expanded="false" />
             <element signature="method#dist#0;class#PointD2#0" expanded="false" />
             <element signature="method#equals#0;class#PointD2#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+          <folding>
+            <element signature="docComment;class#Window#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/java.desktop/java/awt/Graphics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-732">
+          <caret line="184" column="49" lean-forward="false" selection-start-line="184" selection-start-column="44" selection-end-line="184" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DessinPoints.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="69" column="9" lean-forward="true" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="9" />
+          <folding>
+            <element signature="docComment;class#DessinPoints#0" expanded="false" />
+            <element signature="docComment;method#DessinPoints#0;class#DessinPoints#0" expanded="false" />
+            <element signature="method#DessinPoints#0;class#DessinPoints#0" expanded="false" />
+            <element signature="docComment;method#dessine_point#0;class#DessinPoints#0" expanded="false" />
+            <element signature="method#dessine_point#0;class#DessinPoints#0" expanded="false" />
+            <element signature="docComment;method#paintComponent#0;class#DessinPoints#0" expanded="false" />
           </folding>
         </state>
       </provider>
